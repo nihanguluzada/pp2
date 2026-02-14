@@ -8,6 +8,6 @@ class Assignment3 {
         int remaining = totalSeconds % 3600;
         int minutes = remaining / 60;
         int seconds = remaining % 60;
-        System.out.println(hours + " hours " + minutes + " minutes " + seconds + " seconds");
+        System.out.println(hours + " hours " + minutes + " minutes " + seconds + " secondss");
     }
 }
